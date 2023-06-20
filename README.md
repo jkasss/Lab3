@@ -1,5 +1,5 @@
 # Lab3
-# Archivo json
+# Archivo Json
 Este es un proyecto para una aplicacion web el cual permite leer un archivo Json.
 
 ## Utilidad:
